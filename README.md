@@ -1,6 +1,6 @@
 # Advanced CSS Grid Project - RWD
 
-Project build with:
+Project built with:
 - CSS Grid
 - Advanced CSS features
 - Responsive Web Design
