@@ -1,4 +1,4 @@
-# Advanced CSS Grid Project - RWD
+# Modern Advanced CSS Grid Project - RWD
 
 Project built with:
 - CSS Grid
